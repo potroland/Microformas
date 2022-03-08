@@ -109,6 +109,7 @@
     <Content Include="bin\Debug\Microformas.pdb" />
     <Content Include="bin\Debug\Newtonsoft.Json.dll" />
     <Content Include="bin\Debug\Newtonsoft.Json.xml" />
+    <Content Include="bin\Debug\ubicaciones.txt" />
     <Content Include="bin\Debug\ubicaciones.txt.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
